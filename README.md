@@ -3,3 +3,4 @@
 An example that will cause a build failure
 
 Testing Travis CI
+Testing Slack
